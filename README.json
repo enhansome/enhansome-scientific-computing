@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T20:51:51Z",
+            "last_commit": "2026-08-18T14:05:14Z",
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
             "stars": 7558
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T16:51:07Z",
+            "last_commit": "2026-08-18T15:44:46Z",
             "owner": "ginkgo-project",
             "repo": "ginkgo",
-            "stars": 617
+            "stars": 618
           }
         }
       ],
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:00:06Z",
+            "last_commit": "2026-08-18T23:40:11Z",
             "owner": "numpy",
             "repo": "numpy",
-            "stars": 32547
+            "stars": 32552
           }
         },
         {
@@ -101,7 +101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:31:10Z",
+            "last_commit": "2026-08-18T15:02:37Z",
             "owner": "scipy",
             "repo": "scipy",
             "stars": 14935
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-17T07:11:51Z",
             "owner": "SciML",
             "repo": "DifferentialEquations.jl",
-            "stars": 3144
+            "stars": 3145
           }
         }
       ],
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T08:15:56Z",
+            "last_commit": "2026-08-18T20:03:28Z",
             "owner": "idaholab",
             "repo": "moose",
-            "stars": 2330
+            "stars": 2331
           }
         },
         {
@@ -149,10 +149,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T23:15:48Z",
+            "last_commit": "2026-08-18T23:07:40Z",
             "owner": "mfem",
             "repo": "mfem",
-            "stars": 2218
+            "stars": 2220
           }
         },
         {
@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T16:57:34Z",
+            "last_commit": "2026-08-18T15:16:48Z",
             "owner": "dealii",
             "repo": "dealii",
             "stars": 1710
@@ -191,7 +191,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T23:25:04Z",
+            "last_commit": "2026-08-18T22:12:30Z",
             "owner": "libMesh",
             "repo": "libmesh",
             "stars": 757
@@ -205,7 +205,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:44:12Z",
+            "last_commit": "2026-08-18T23:04:05Z",
             "owner": "firedrakeproject",
             "repo": "firedrake",
             "stars": 669
@@ -247,7 +247,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T03:22:13Z",
+            "last_commit": "2026-08-18T08:06:10Z",
             "owner": "CEED",
             "repo": "libCEED",
             "stars": 264
@@ -275,7 +275,7 @@
             "last_commit": "2026-08-17T08:48:14Z",
             "owner": "CGAL",
             "repo": "cgal",
-            "stars": 6009
+            "stars": 6010
           }
         },
         {
@@ -286,10 +286,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:36:12Z",
+            "last_commit": "2026-08-18T21:01:31Z",
             "owner": "mikedh",
             "repo": "trimesh",
-            "stars": 3650
+            "stars": 3651
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2024-07-23T14:33:18Z",
             "owner": "nschloe",
             "repo": "meshio",
-            "stars": 2319
+            "stars": 2320
           }
         },
         {
@@ -497,7 +497,7 @@
             "last_commit": "2026-08-17T12:41:27Z",
             "owner": "zarr-developers",
             "repo": "zarr-python",
-            "stars": 2038
+            "stars": 2039
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-08-15T00:48:48Z",
             "owner": "HDFGroup",
             "repo": "hdf5",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -522,7 +522,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T22:10:40Z",
+            "last_commit": "2026-08-18T21:12:31Z",
             "owner": "Unidata",
             "repo": "netcdf-c",
             "stars": 601
@@ -542,10 +542,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T16:11:17Z",
+            "last_commit": "2026-08-18T17:45:09Z",
             "owner": "hypre-space",
             "repo": "hypre",
-            "stars": 851
+            "stars": 852
           }
         },
         {
@@ -590,10 +590,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T03:42:38Z",
+            "last_commit": "2026-08-18T11:13:26Z",
             "owner": "f3d-app",
             "repo": "f3d",
-            "stars": 4631
+            "stars": 4632
           }
         },
         {
@@ -604,10 +604,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:15:26Z",
+            "last_commit": "2026-08-18T23:22:03Z",
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3772
+            "stars": 3773
           }
         },
         {
@@ -635,7 +635,7 @@
             "last_commit": "2026-05-20T05:55:33Z",
             "owner": "nmwsharp",
             "repo": "polyscope",
-            "stars": 2195
+            "stars": 2196
           }
         },
         {
@@ -708,10 +708,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T11:34:43Z",
+            "last_commit": "2026-08-18T21:56:03Z",
             "owner": "cvxpy",
             "repo": "cvxpy",
-            "stars": 6301
+            "stars": 6303
           }
         },
         {
@@ -725,7 +725,7 @@
             "last_commit": "2026-06-10T11:17:52Z",
             "owner": "FFTW",
             "repo": "fftw3",
-            "stars": 3095
+            "stars": 3097
           }
         },
         {
@@ -750,7 +750,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T11:16:32Z",
+            "last_commit": "2026-08-18T15:00:41Z",
             "owner": "OpenFOAM",
             "repo": "OpenFOAM-dev",
             "stars": 2201
@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:10:03Z",
+            "last_commit": "2026-08-18T09:29:35Z",
             "owner": "pymor",
             "repo": "pymor",
             "stars": 346
@@ -957,7 +957,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:42:04.782Z",
+    "last_updated": "2026-08-18T23:41:40.935Z",
     "original_repository": "nschloe/awesome-scientific-computing",
     "original_repository_sha": "5b7af1bf55324ce0a2205dc9c1822363fabafa10",
     "enhanced_repository": "enhansome/enhansome-scientific-computing",
