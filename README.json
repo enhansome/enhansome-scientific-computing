@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1286805,
             "language": "C",
             "last_commit": "2026-08-18T14:05:14Z",
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7558
+            "stars": 7559
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16143904,
             "language": "C",
             "last_commit": "2026-07-10T14:51:59Z",
             "owner": "flame",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57351353,
             "language": "Fortran",
             "last_commit": "2026-08-06T14:28:47Z",
             "owner": "Reference-LAPACK",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57351353,
             "language": "Fortran",
             "last_commit": "2026-08-06T14:28:47Z",
             "owner": "Reference-LAPACK",
@@ -66,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117122510,
             "language": "C++",
-            "last_commit": "2026-08-18T15:44:46Z",
+            "last_commit": "2026-08-19T12:38:15Z",
             "owner": "ginkgo-project",
             "repo": "ginkgo",
             "stars": 618
@@ -77,7 +82,7 @@
       "title": "Basic linear algebra"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 908607,
             "language": "Python",
-            "last_commit": "2026-08-18T23:40:11Z",
+            "last_commit": "2026-08-19T11:56:31Z",
             "owner": "numpy",
             "repo": "numpy",
-            "stars": 32552
+            "stars": 32558
           }
         },
         {
@@ -100,8 +106,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1460385,
             "language": "Python",
-            "last_commit": "2026-08-18T15:02:37Z",
+            "last_commit": "2026-08-19T08:08:20Z",
             "owner": "scipy",
             "repo": "scipy",
             "stars": 14935
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58516043,
             "language": "Julia",
             "last_commit": "2026-08-17T07:11:51Z",
             "owner": "SciML",
@@ -125,7 +133,7 @@
       "title": "Multi-purpose toolkits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -134,8 +142,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16851223,
             "language": "C++",
-            "last_commit": "2026-08-18T20:03:28Z",
+            "last_commit": "2026-08-19T08:11:48Z",
             "owner": "idaholab",
             "repo": "moose",
             "stars": 2331
@@ -148,8 +157,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37287688,
             "language": "C++",
-            "last_commit": "2026-08-18T23:07:40Z",
+            "last_commit": "2026-08-19T08:24:15Z",
             "owner": "mfem",
             "repo": "mfem",
             "stars": 2220
@@ -162,8 +172,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21943980,
             "language": "C++",
-            "last_commit": "2026-08-18T15:16:48Z",
+            "last_commit": "2026-08-19T11:02:28Z",
             "owner": "dealii",
             "repo": "dealii",
             "stars": 1710
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802525,
             "language": "Python",
             "last_commit": "2026-08-14T12:54:20Z",
             "owner": "sfepy",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5850234,
             "language": "C",
             "last_commit": "2026-08-18T22:12:30Z",
             "owner": "libMesh",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13384052,
             "language": "Python",
             "last_commit": "2026-08-18T23:04:05Z",
             "owner": "firedrakeproject",
@@ -218,8 +232,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115345426,
             "language": "Python",
-            "last_commit": "2026-08-06T11:12:01Z",
+            "last_commit": "2026-08-19T11:45:44Z",
             "owner": "kinnala",
             "repo": "scikit-fem",
             "stars": 644
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97575728,
             "language": "C++",
             "last_commit": "2026-08-06T16:09:19Z",
             "owner": "NGSolve",
@@ -246,8 +262,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113349904,
             "language": "C",
-            "last_commit": "2026-08-18T08:06:10Z",
+            "last_commit": "2026-08-19T07:46:01Z",
             "owner": "CEED",
             "repo": "libCEED",
             "stars": 264
@@ -257,234 +274,252 @@
       "title": "Finite Elements"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CGAL",
+              "description": "Algorithms for computational geometry. (C++, mixed LGPL/GPL, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24677392,
+                "language": "C++",
+                "last_commit": "2026-08-17T08:48:14Z",
+                "owner": "CGAL",
+                "repo": "cgal",
+                "stars": 6011
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trimesh",
+              "description": "Loading and using triangular meshes with an emphasis on watertight surfaces. (Python, MIT, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11745275,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:01:31Z",
+                "owner": "mikedh",
+                "repo": "trimesh",
+                "stars": 3651
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pygmsh",
+              "description": "Python interface for Gmsh. (Python, GPL 3, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13310568,
+                "language": "Python",
+                "last_commit": "2023-10-04T10:11:37Z",
+                "owner": "nschloe",
+                "repo": "pygmsh",
+                "stars": 967
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TetWild",
+              "description": "Generate tetrahedral meshes for triangular surface meshes. (C++, GPL 3, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128119974,
+                "language": "C++",
+                "last_commit": "2023-04-27T19:09:59Z",
+                "owner": "Yixin-Hu",
+                "repo": "TetWild",
+                "stars": 721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pygalmesh",
+              "description": "Python interface for CGAL's 3D meshing capabilities. (Python, GPL 3, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66091934,
+                "language": "C++",
+                "last_commit": "2024-07-22T09:26:24Z",
+                "owner": "meshpro",
+                "repo": "pygalmesh",
+                "stars": 667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fTetWild",
+              "description": "Same as TetWild, but faster. (C++, MPL 2, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202774685,
+                "language": "C++",
+                "last_commit": "2026-05-05T14:12:15Z",
+                "owner": "wildmeshing",
+                "repo": "fTetWild",
+                "stars": 594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MeshPy",
+              "description": "Quality triangular and tetrahedral mesh generation. (Python, MIT, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2757253,
+                "language": "C++",
+                "last_commit": "2026-08-10T13:25:34Z",
+                "owner": "inducer",
+                "repo": "meshpy",
+                "stars": 586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TriWild",
+              "description": "Robust triangulation with curve constraints. (C++, MPL 2, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184290352,
+                "language": "C++",
+                "last_commit": "2025-12-22T14:22:18Z",
+                "owner": "wildmeshing",
+                "repo": "TriWild",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dmsh",
+              "description": "Simple generator for unstructured triangular meshes, inspired by distmesh. (Python, proprietary, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141055235,
+                "language": null,
+                "last_commit": "2026-05-18T14:27:45Z",
+                "owner": "meshpro",
+                "repo": "dmsh",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SeismicMesh",
+              "description": "Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal. (Python and C++, GPL 3, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 216707188,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:59:37Z",
+                "owner": "krober10nd",
+                "repo": "SeismicMesh",
+                "stars": 142
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Triangular and tetrahedral meshing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "meshio",
+              "description": "I/O for various mesh formats, file conversion. (Python, MIT, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45875786,
+                "language": "Python",
+                "last_commit": "2024-07-23T14:33:18Z",
+                "owner": "nschloe",
+                "repo": "meshio",
+                "stars": 2320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pmp-library",
+              "description": "Polygon mesh processing library. (C++, MIT with Employer Disclaimer, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105374301,
+                "language": "C++",
+                "last_commit": "2026-08-03T21:48:20Z",
+                "owner": "pmp-library",
+                "repo": "pmp-library",
+                "stars": 1500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "optimesh",
+              "description": "Triangular mesh smoothing. (Python, proprietary, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131445806,
+                "language": null,
+                "last_commit": "2026-05-18T14:19:39Z",
+                "owner": "meshpro",
+                "repo": "optimesh",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mmg",
+              "description": "Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32025808,
+                "language": "C",
+                "last_commit": "2026-05-11T10:06:55Z",
+                "owner": "MmgTools",
+                "repo": "mmg",
+                "stars": 483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meshplex",
+              "description": "Fast tools for simplex meshes. (Python, proprietary, GitHub)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80457714,
+                "language": null,
+                "last_commit": "2026-05-18T14:01:37Z",
+                "owner": "meshpro",
+                "repo": "meshplex",
+                "stars": 110
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mesh tools"
+        }
+      ],
       "title": "Meshing"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CGAL",
-          "description": "Algorithms for computational geometry. (C++, mixed LGPL/GPL, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T08:48:14Z",
-            "owner": "CGAL",
-            "repo": "cgal",
-            "stars": 6010
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trimesh",
-          "description": "Loading and using triangular meshes with an emphasis on watertight surfaces. (Python, MIT, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T21:01:31Z",
-            "owner": "mikedh",
-            "repo": "trimesh",
-            "stars": 3651
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pygmsh",
-          "description": "Python interface for Gmsh. (Python, GPL 3, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-04T10:11:37Z",
-            "owner": "nschloe",
-            "repo": "pygmsh",
-            "stars": 967
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TetWild",
-          "description": "Generate tetrahedral meshes for triangular surface meshes. (C++, GPL 3, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-04-27T19:09:59Z",
-            "owner": "Yixin-Hu",
-            "repo": "TetWild",
-            "stars": 721
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pygalmesh",
-          "description": "Python interface for CGAL's 3D meshing capabilities. (Python, GPL 3, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-07-22T09:26:24Z",
-            "owner": "meshpro",
-            "repo": "pygalmesh",
-            "stars": 667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fTetWild",
-          "description": "Same as TetWild, but faster. (C++, MPL 2, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-05T14:12:15Z",
-            "owner": "wildmeshing",
-            "repo": "fTetWild",
-            "stars": 594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MeshPy",
-          "description": "Quality triangular and tetrahedral mesh generation. (Python, MIT, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-10T13:25:34Z",
-            "owner": "inducer",
-            "repo": "meshpy",
-            "stars": 585
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TriWild",
-          "description": "Robust triangulation with curve constraints. (C++, MPL 2, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-22T14:22:18Z",
-            "owner": "wildmeshing",
-            "repo": "TriWild",
-            "stars": 265
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dmsh",
-          "description": "Simple generator for unstructured triangular meshes, inspired by distmesh. (Python, proprietary, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-18T14:27:45Z",
-            "owner": "meshpro",
-            "repo": "dmsh",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SeismicMesh",
-          "description": "Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal. (Python and C++, GPL 3, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-07-06T21:59:37Z",
-            "owner": "krober10nd",
-            "repo": "SeismicMesh",
-            "stars": 142
-          }
-        }
-      ],
-      "title": "Triangular and tetrahedral meshing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "meshio",
-          "description": "I/O for various mesh formats, file conversion. (Python, MIT, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-23T14:33:18Z",
-            "owner": "nschloe",
-            "repo": "meshio",
-            "stars": 2320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pmp-library",
-          "description": "Polygon mesh processing library. (C++, MIT with Employer Disclaimer, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-03T21:48:20Z",
-            "owner": "pmp-library",
-            "repo": "pmp-library",
-            "stars": 1500
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "optimesh",
-          "description": "Triangular mesh smoothing. (Python, proprietary, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-18T14:19:39Z",
-            "owner": "meshpro",
-            "repo": "optimesh",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mmg",
-          "description": "Robust, open-source & multidisciplinary software for remeshing. (C, LGPL 3, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-11T10:06:55Z",
-            "owner": "MmgTools",
-            "repo": "mmg",
-            "stars": 483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meshplex",
-          "description": "Fast tools for simplex meshes. (Python, proprietary, GitHub)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-18T14:01:37Z",
-            "owner": "meshpro",
-            "repo": "meshplex",
-            "stars": 110
-          }
-        }
-      ],
-      "title": "Mesh tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -493,11 +528,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48049137,
             "language": "Python",
             "last_commit": "2026-08-17T12:41:27Z",
             "owner": "zarr-developers",
             "repo": "zarr-python",
-            "stars": 2039
+            "stars": 2040
           }
         },
         {
@@ -507,11 +543,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258591100,
             "language": "C",
-            "last_commit": "2026-08-15T00:48:48Z",
+            "last_commit": "2026-08-19T07:22:44Z",
             "owner": "HDFGroup",
             "repo": "hdf5",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -521,6 +558,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11934257,
             "language": "C",
             "last_commit": "2026-08-18T21:12:31Z",
             "owner": "Unidata",
@@ -532,7 +570,7 @@
       "title": "Data formats"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -541,6 +579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158287397,
             "language": "C",
             "last_commit": "2026-08-18T17:45:09Z",
             "owner": "hypre-space",
@@ -555,6 +594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10866320,
             "language": "Python",
             "last_commit": "2026-03-30T14:40:07Z",
             "owner": "pyamg",
@@ -569,6 +609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51040874,
             "language": "C",
             "last_commit": "2026-08-16T00:33:23Z",
             "owner": "xiaoyeli",
@@ -580,7 +621,7 @@
       "title": "Sparse linear solvers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -589,11 +630,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241178673,
             "language": "C++",
-            "last_commit": "2026-08-18T11:13:26Z",
+            "last_commit": "2026-08-19T11:55:04Z",
             "owner": "f3d-app",
             "repo": "f3d",
-            "stars": 4632
+            "stars": 4634
           }
         },
         {
@@ -603,11 +645,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92974124,
             "language": "Python",
-            "last_commit": "2026-08-18T23:22:03Z",
+            "last_commit": "2026-08-19T12:48:21Z",
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3773
+            "stars": 3774
           }
         },
         {
@@ -617,6 +660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110261047,
             "language": "Python",
             "last_commit": "2026-08-04T14:34:23Z",
             "owner": "marcomusy",
@@ -631,6 +675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111565012,
             "language": "C++",
             "last_commit": "2026-05-20T05:55:33Z",
             "owner": "nmwsharp",
@@ -645,6 +690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1288547,
             "language": "Python",
             "last_commit": "2026-08-15T00:37:36Z",
             "owner": "enthought",
@@ -659,6 +705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88776493,
             "language": "Python",
             "last_commit": "2026-08-05T06:32:38Z",
             "owner": "yt-project",
@@ -673,6 +720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83953525,
             "language": "C++",
             "last_commit": "2026-08-17T05:26:06Z",
             "owner": "topology-tool-kit",
@@ -687,6 +735,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 137862983,
             "language": "C++",
             "last_commit": "2025-06-26T09:18:00Z",
             "owner": "ABRG-Models",
@@ -698,7 +747,7 @@
       "title": "Visualization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -707,11 +756,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11110385,
             "language": "C++",
             "last_commit": "2026-08-18T21:56:03Z",
             "owner": "cvxpy",
             "repo": "cvxpy",
-            "stars": 6303
+            "stars": 6305
           }
         },
         {
@@ -721,11 +771,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8843388,
             "language": "C",
             "last_commit": "2026-06-10T11:17:52Z",
             "owner": "FFTW",
             "repo": "fftw3",
-            "stars": 3097
+            "stars": 3098
           }
         },
         {
@@ -735,6 +786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11591264,
             "language": "Python",
             "last_commit": "2026-08-17T13:24:11Z",
             "owner": "PyWavelets",
@@ -749,11 +801,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27826728,
             "language": "C++",
-            "last_commit": "2026-08-18T15:00:41Z",
+            "last_commit": "2026-08-19T11:52:51Z",
             "owner": "OpenFOAM",
             "repo": "OpenFOAM-dev",
-            "stars": 2201
+            "stars": 2200
           }
         },
         {
@@ -763,6 +816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79413341,
             "language": "Python",
             "last_commit": "2026-04-21T15:12:58Z",
             "owner": "dswah",
@@ -777,6 +831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41710969,
             "language": "C",
             "last_commit": "2025-09-07T19:29:23Z",
             "owner": "qhull",
@@ -791,6 +846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69865111,
             "language": null,
             "last_commit": "2026-05-18T21:20:06Z",
             "owner": "sigma-py",
@@ -805,6 +861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264506861,
             "language": "Python",
             "last_commit": "2026-07-21T20:22:38Z",
             "owner": "DedalusProject",
@@ -819,6 +876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7893220,
             "language": "MATLAB",
             "last_commit": "2026-06-23T16:12:49Z",
             "owner": "chebfun",
@@ -833,6 +891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23316495,
             "language": "Python",
             "last_commit": "2026-06-18T17:37:04Z",
             "owner": "usnistgov",
@@ -847,6 +906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232288821,
             "language": "C++",
             "last_commit": "2026-04-17T09:41:08Z",
             "owner": "esa",
@@ -861,8 +921,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9220688,
             "language": "Python",
-            "last_commit": "2026-08-18T09:29:35Z",
+            "last_commit": "2026-08-19T11:44:54Z",
             "owner": "pymor",
             "repo": "pymor",
             "stars": 346
@@ -875,6 +936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79914066,
             "language": "Python",
             "last_commit": "2026-07-20T17:33:05Z",
             "owner": "spectralDNS",
@@ -889,6 +951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100865192,
             "language": null,
             "last_commit": "2026-05-18T20:41:40Z",
             "owner": "sigma-py",
@@ -903,6 +966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50946487,
             "language": "C",
             "last_commit": "2026-08-12T08:19:11Z",
             "owner": "NFFT",
@@ -917,6 +981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27028108,
             "language": "C++",
             "last_commit": "2026-07-31T18:55:48Z",
             "owner": "hpddm",
@@ -931,6 +996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629922737,
             "language": "Python",
             "last_commit": "2025-03-06T16:41:03Z",
             "owner": "mathLab",
@@ -945,6 +1011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121792855,
             "language": "Python",
             "last_commit": "2021-09-06T15:54:02Z",
             "owner": "sigma-py",
@@ -957,8 +1024,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:41:40.935Z",
+    "last_updated": "2026-08-19T12:49:44.440Z",
     "original_repository": "nschloe/awesome-scientific-computing",
+    "original_repository_id": 132509274,
     "original_repository_sha": "5b7af1bf55324ce0a2205dc9c1822363fabafa10",
     "enhanced_repository": "enhansome/enhansome-scientific-computing",
     "enhanced_repository_description": null,
