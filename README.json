@@ -42,7 +42,7 @@
             "archived": false,
             "id": 57351353,
             "language": "Fortran",
-            "last_commit": "2026-08-24T15:30:29Z",
+            "last_commit": "2026-08-25T04:08:44Z",
             "owner": "Reference-LAPACK",
             "repo": "lapack",
             "stars": 1888
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 57351353,
             "language": "Fortran",
-            "last_commit": "2026-08-24T15:30:29Z",
+            "last_commit": "2026-08-25T04:08:44Z",
             "owner": "Reference-LAPACK",
             "repo": "lapack",
             "stars": 1888
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 908607,
             "language": "Python",
-            "last_commit": "2026-08-24T23:11:48Z",
+            "last_commit": "2026-08-25T02:31:43Z",
             "owner": "numpy",
             "repo": "numpy",
             "stars": 32597
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 16851223,
             "language": "C++",
-            "last_commit": "2026-08-24T15:07:20Z",
+            "last_commit": "2026-08-25T05:44:21Z",
             "owner": "idaholab",
             "repo": "moose",
             "stars": 2335
@@ -159,7 +159,7 @@
             "archived": false,
             "id": 37287688,
             "language": "C++",
-            "last_commit": "2026-08-24T23:02:49Z",
+            "last_commit": "2026-08-25T01:40:31Z",
             "owner": "mfem",
             "repo": "mfem",
             "stars": 2225
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 113349904,
             "language": "C",
-            "last_commit": "2026-08-24T23:01:46Z",
+            "last_commit": "2026-08-25T05:55:49Z",
             "owner": "CEED",
             "repo": "libCEED",
             "stars": 264
@@ -305,7 +305,7 @@
                 "last_commit": "2026-08-20T00:14:06Z",
                 "owner": "mikedh",
                 "repo": "trimesh",
-                "stars": 3655
+                "stars": 3656
               }
             },
             {
@@ -570,7 +570,7 @@
             "last_commit": "2026-08-21T00:48:06Z",
             "owner": "HDFGroup",
             "repo": "hdf5",
-            "stars": 977
+            "stars": 978
           }
         },
         {
@@ -603,7 +603,7 @@
             "archived": false,
             "id": 158287397,
             "language": "C",
-            "last_commit": "2026-08-24T21:10:15Z",
+            "last_commit": "2026-08-25T01:39:44Z",
             "owner": "hypre-space",
             "repo": "hypre",
             "stars": 854
@@ -654,7 +654,7 @@
             "archived": false,
             "id": 241178673,
             "language": "C++",
-            "last_commit": "2026-08-24T15:27:52Z",
+            "last_commit": "2026-08-25T04:02:17Z",
             "owner": "f3d-app",
             "repo": "f3d",
             "stars": 4650
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 92974124,
             "language": "Python",
-            "last_commit": "2026-08-24T21:38:33Z",
+            "last_commit": "2026-08-25T03:34:42Z",
             "owner": "pyvista",
             "repo": "pyvista",
             "stars": 3783
@@ -780,7 +780,7 @@
             "archived": false,
             "id": 11110385,
             "language": "C++",
-            "last_commit": "2026-08-24T18:14:03Z",
+            "last_commit": "2026-08-25T03:11:04Z",
             "owner": "cvxpy",
             "repo": "cvxpy",
             "stars": 6309
@@ -990,7 +990,7 @@
             "archived": false,
             "id": 50946487,
             "language": "C",
-            "last_commit": "2026-08-24T20:54:52Z",
+            "last_commit": "2026-08-25T05:46:38Z",
             "owner": "NFFT",
             "repo": "nfft",
             "stars": 187
@@ -1046,7 +1046,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:42:07.430Z",
+    "last_updated": "2026-08-25T06:04:20.948Z",
     "original_repository": "nschloe/awesome-scientific-computing",
     "original_repository_id": 132509274,
     "original_repository_sha": "5b7af1bf55324ce0a2205dc9c1822363fabafa10",
