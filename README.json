@@ -1238,7 +1238,7 @@
             "id": 92974124,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:35:10Z",
+            "last_commit": "2026-08-29T04:17:26Z",
             "open_issues": 593,
             "owner": "pyvista",
             "repo": "pyvista",
@@ -1971,7 +1971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:22.757Z",
+    "last_updated": "2026-08-29T04:29:14.291Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of awesome software for numerical analysis and scientific computing",
