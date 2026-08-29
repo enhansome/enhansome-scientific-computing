@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ",
+            "homepage": "http://www.openblas.net",
             "id": 1286805,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T19:40:41Z",
+            "open_issues": 119,
             "owner": "OpenMathLib",
             "repo": "OpenBLAS",
-            "stars": 7563
+            "stars": 7564,
+            "topics": [
+              "blas",
+              "lapack",
+              "lapacke"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -26,12 +35,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BLAS-like Library Instantiation Software Framework",
+            "homepage": null,
             "id": 16143904,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T14:51:59Z",
+            "open_issues": 130,
             "owner": "flame",
             "repo": "blis",
-            "stars": 2678
+            "stars": 2678,
+            "topics": [
+              "blas",
+              "blas-libraries",
+              "blis",
+              "high-performance",
+              "high-performance-computing",
+              "hpc",
+              "linear-algebra",
+              "linear-algebra-library",
+              "matrix",
+              "matrix-calculations",
+              "matrix-functions",
+              "matrix-library",
+              "matrix-multiplication",
+              "optimization"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -42,12 +71,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LAPACK development repository",
+            "homepage": null,
             "id": 57351353,
             "language": "Fortran",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T20:52:43Z",
+            "open_issues": 139,
             "owner": "Reference-LAPACK",
             "repo": "lapack",
-            "stars": 1891
+            "stars": 1894,
+            "topics": [
+              "blas",
+              "eigenvalues",
+              "eigenvectors",
+              "lapack",
+              "lapacke",
+              "linear-algebra",
+              "linear-equations",
+              "matrix-factorization",
+              "singular-values",
+              "svd"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -58,12 +103,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LAPACK development repository",
+            "homepage": null,
             "id": 57351353,
             "language": "Fortran",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T20:52:43Z",
+            "open_issues": 139,
             "owner": "Reference-LAPACK",
             "repo": "lapack",
-            "stars": 1891
+            "stars": 1894,
+            "topics": [
+              "blas",
+              "eigenvalues",
+              "eigenvectors",
+              "lapack",
+              "lapacke",
+              "linear-algebra",
+              "linear-equations",
+              "matrix-factorization",
+              "singular-values",
+              "svd"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -74,12 +135,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Numerical linear algebra software package",
+            "homepage": "https://gko-project.org",
             "id": 117122510,
             "language": "C++",
-            "last_commit": "2026-08-28T01:01:53Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T00:17:56Z",
+            "open_issues": 214,
             "owner": "ginkgo-project",
             "repo": "ginkgo",
-            "stars": 621
+            "stars": 620,
+            "topics": [
+              "cuda",
+              "dpcpp",
+              "gpu-computing",
+              "hip",
+              "hpc",
+              "krylov-methods",
+              "linear-algebra",
+              "oneapi",
+              "openmp",
+              "preconditioning",
+              "sparse-linear-systems",
+              "spmv"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         }
@@ -96,12 +175,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fundamental package for scientific computing with Python.",
+            "homepage": "https://numpy.org",
             "id": 908607,
             "language": "Python",
-            "last_commit": "2026-08-27T23:56:50Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:23:43Z",
+            "open_issues": 2341,
             "owner": "numpy",
             "repo": "numpy",
-            "stars": 32616
+            "stars": 32622,
+            "topics": [
+              "numpy",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -112,12 +199,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SciPy library main repository",
+            "homepage": "https://scipy.org",
             "id": 1460385,
             "language": "Python",
-            "last_commit": "2026-08-28T02:39:04Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T20:43:12Z",
+            "open_issues": 1835,
             "owner": "scipy",
             "repo": "scipy",
-            "stars": 14961
+            "stars": 14963,
+            "topics": [
+              "algorithms",
+              "closember",
+              "python",
+              "scientific-computing",
+              "scipy"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -128,12 +226,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.",
+            "homepage": "https://docs.sciml.ai/DiffEqDocs/stable/",
             "id": 58516043,
             "language": "Julia",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T20:44:43Z",
+            "open_issues": 127,
             "owner": "SciML",
             "repo": "DifferentialEquations.jl",
-            "stars": 3151
+            "stars": 3151,
+            "topics": [
+              "dae",
+              "dde",
+              "delay-differential-equations",
+              "differential-algebraic-equations",
+              "differential-equations",
+              "differentialequations",
+              "dynamical-systems",
+              "julia",
+              "neural-differential-equations",
+              "numerical",
+              "ode",
+              "python",
+              "r",
+              "scientific",
+              "scientific-machine-learning",
+              "sciml",
+              "sde",
+              "spde",
+              "stochastic-differential-equations",
+              "stochastic-processes"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         }
@@ -150,12 +274,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiphysics Object Oriented Simulation Environment",
+            "homepage": "https://mooseframework.inl.gov",
             "id": 16851223,
             "language": "C++",
-            "last_commit": "2026-08-28T05:17:27Z",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-08-29T02:21:56Z",
+            "open_issues": 2796,
             "owner": "idaholab",
             "repo": "moose",
-            "stars": 2338
+            "stars": 2338,
+            "topics": [
+              "amr",
+              "fem",
+              "finite-elements",
+              "finite-volumes",
+              "multiphysics",
+              "object-oriented",
+              "parallel",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -166,12 +304,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, general, scalable C++ library for finite element methods",
+            "homepage": "http://mfem.org",
             "id": 37287688,
             "language": "C++",
-            "last_commit": "2026-08-28T06:20:25Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T03:08:14Z",
+            "open_issues": 225,
             "owner": "mfem",
             "repo": "mfem",
-            "stars": 2225
+            "stars": 2225,
+            "topics": [
+              "amr",
+              "computational-science",
+              "fem",
+              "finite-elements",
+              "high-order",
+              "high-performance-computing",
+              "hpc",
+              "math-physics",
+              "parallel-computing",
+              "radiuss",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -182,12 +337,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The development repository for the deal.II finite element library",
+            "homepage": "https://dealii.org",
             "id": 21943980,
             "language": "C++",
-            "last_commit": "2026-08-27T11:00:59Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:06:53Z",
+            "open_issues": 643,
             "owner": "dealii",
             "repo": "dealii",
-            "stars": 1715
+            "stars": 1715,
+            "topics": [
+              "c-plus-plus",
+              "fem",
+              "finite-elements",
+              "hpc",
+              "kokkos",
+              "parallel-computing",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -198,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main SfePy repository",
+            "homepage": "http://sfepy.org",
             "id": 802525,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T09:24:15Z",
+            "open_issues": 79,
             "owner": "sfepy",
             "repo": "sfepy",
-            "stars": 838
+            "stars": 838,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -214,12 +387,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "libMesh github repository",
+            "homepage": "http://libmesh.github.io",
             "id": 5850234,
             "language": "C",
-            "last_commit": "2026-08-28T00:22:38Z",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-08-29T02:06:44Z",
+            "open_issues": 337,
             "owner": "libMesh",
             "repo": "libmesh",
-            "stars": 757
+            "stars": 757,
+            "topics": [
+              "amr",
+              "fem",
+              "finite-element-analysis",
+              "finite-element-methods",
+              "finite-elements",
+              "hacktoberfest",
+              "parallel",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -230,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM)",
+            "homepage": "https://firedrakeproject.org",
             "id": 13384052,
             "language": "Python",
-            "last_commit": "2026-08-28T00:44:48Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:13:41Z",
+            "open_issues": 456,
             "owner": "firedrakeproject",
             "repo": "firedrake",
-            "stars": 669
+            "stars": 669,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -246,12 +438,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple finite element assemblers",
+            "homepage": "https://scikit-fem.readthedocs.io",
             "id": 115345426,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T11:45:44Z",
+            "open_issues": 11,
             "owner": "kinnala",
             "repo": "scikit-fem",
-            "stars": 650
+            "stars": 650,
+            "topics": [
+              "fem",
+              "pde",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -262,12 +463,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://ngsolve.org",
             "id": 97575728,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-26T10:36:54Z",
+            "open_issues": 116,
             "owner": "NGSolve",
             "repo": "netgen",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "mesh-generator"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -278,12 +486,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CEED Library: Code for Efficient Extensible Discretizations",
+            "homepage": "https://libceed.org",
             "id": 113349904,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-27T18:14:44Z",
+            "open_issues": 54,
             "owner": "CEED",
             "repo": "libCEED",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "api",
+              "ceed",
+              "cuda",
+              "ecp",
+              "exascale-computing",
+              "gpu",
+              "high-order",
+              "high-performance-computing",
+              "hpc",
+              "julia",
+              "linear-algebra"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         }
@@ -302,12 +527,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The public CGAL repository, see the README below",
+                "homepage": "https://github.com/CGAL/cgal#readme",
                 "id": 24677392,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T16:58:02Z",
+                "open_issues": 676,
                 "owner": "CGAL",
                 "repo": "cgal",
-                "stars": 6026
+                "stars": 6026,
+                "topics": [
+                  "algorithms",
+                  "arrange",
+                  "boolean-operations",
+                  "c-plus-plus",
+                  "cgal",
+                  "computational-geometry",
+                  "cpp",
+                  "geometry",
+                  "geometry-processing",
+                  "library",
+                  "mesh-processing",
+                  "meshes",
+                  "point-cloud",
+                  "polygon",
+                  "template-library",
+                  "triangulation",
+                  "voronoi-diagram"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -318,12 +566,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for loading and using triangular meshes.",
+                "homepage": "https://trimesh.org",
                 "id": 11745275,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:30:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:57:52Z",
+                "open_issues": 481,
                 "owner": "mikedh",
                 "repo": "trimesh",
-                "stars": 3661
+                "stars": 3662,
+                "topics": [
+                  "geometry",
+                  "mesh",
+                  "python",
+                  "triangular-meshes"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -334,12 +592,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":spider_web: Gmsh for Python",
+                "homepage": null,
                 "id": 13310568,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-04T10:11:37Z",
+                "open_issues": 60,
                 "owner": "nschloe",
                 "repo": "pygmsh",
-                "stars": 967
+                "stars": 967,
+                "topics": [
+                  "engineering",
+                  "mathematics",
+                  "mesh-generation",
+                  "meshing",
+                  "pypi",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -350,12 +620,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust Tetrahedral Meshing in the Wild.",
+                "homepage": "https://yixin-hu.github.io/tetwild.pdf",
                 "id": 128119974,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-27T19:09:59Z",
+                "open_issues": 31,
                 "owner": "Yixin-Hu",
                 "repo": "TetWild",
-                "stars": 721
+                "stars": 721,
+                "topics": [
+                  "3d-triangulation",
+                  "geometry-processing",
+                  "surface-repair",
+                  "tetrahedral-meshing"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -366,12 +646,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":spider_web: A Python interface to CGAL's meshing tools",
+                "homepage": null,
                 "id": 66091934,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-22T09:26:24Z",
+                "open_issues": 33,
                 "owner": "meshpro",
                 "repo": "pygalmesh",
-                "stars": 668
+                "stars": 668,
+                "topics": [
+                  "cgal",
+                  "engineering",
+                  "mathematics",
+                  "mesh",
+                  "mesh-generation",
+                  "meshing",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -382,12 +675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Tetrahedral Meshing in the Wild",
+                "homepage": "https://yixin-hu.github.io/ftetwild.pdf",
                 "id": 202774685,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2026-05-05T14:12:15Z",
+                "open_issues": 37,
                 "owner": "wildmeshing",
                 "repo": "fTetWild",
-                "stars": 596
+                "stars": 596,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -398,12 +696,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D/3D simplicial mesh generator interface for Python (Triangle, TetGen, gmsh)",
+                "homepage": "http://mathema.tician.de/software/meshpy",
                 "id": 2757253,
                 "language": "C++",
-                "last_commit": "2026-08-10T13:25:34Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T20:51:24Z",
+                "open_issues": 18,
                 "owner": "inducer",
                 "repo": "meshpy",
-                "stars": 585
+                "stars": 585,
+                "topics": [
+                  "gmsh",
+                  "mesh-generation",
+                  "python",
+                  "scientific-computing",
+                  "tetgen",
+                  "triangle",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -414,12 +725,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TriWild: Robust Triangulation with Curve Constraints",
+                "homepage": "https://dl.acm.org/doi/pdf/10.1145/3306346.3323011",
                 "id": 184290352,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2025-12-22T14:22:18Z",
+                "open_issues": 6,
                 "owner": "wildmeshing",
                 "repo": "TriWild",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "geometry-processing",
+                  "meshing",
+                  "traingulation"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -430,12 +750,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":spider_web: Simple mesh generator inspired by distmesh.",
+                "homepage": null,
                 "id": 141055235,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-18T14:27:45Z",
+                "open_issues": 4,
                 "owner": "meshpro",
                 "repo": "dmsh",
-                "stars": 222
+                "stars": 222,
+                "topics": [
+                  "finite-elements",
+                  "mathematics",
+                  "mesh",
+                  "mesh-generation",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -446,12 +778,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "2D/3D serial and parallel triangular mesh generation tool for finite element methods.",
+                "homepage": "https://seismicmesh.readthedocs.io/",
                 "id": 216707188,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-06T21:59:37Z",
+                "open_issues": 14,
                 "owner": "krober10nd",
                 "repo": "SeismicMesh",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "distmesh",
+                  "meshing",
+                  "parallel",
+                  "seismic-velocity-models"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             }
@@ -469,12 +811,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QuadriFlow: A Scalable and Robust Method for Quadrangulation",
+                "homepage": "http://stanford.edu/~jingweih/papers/quadriflow/",
                 "id": 114520175,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-07T19:02:04Z",
+                "open_issues": 9,
                 "owner": "hjwdzh",
                 "repo": "QuadriFlow",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "geometry",
+                  "quad",
+                  "quadrangulation",
+                  "quadriflow",
+                  "remeshing"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             }
@@ -492,12 +845,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":spider_web: input/output for many mesh formats",
+                "homepage": null,
                 "id": 45875786,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-23T14:33:18Z",
+                "open_issues": 250,
                 "owner": "nschloe",
                 "repo": "meshio",
-                "stars": 2325
+                "stars": 2325,
+                "topics": [
+                  "engineering",
+                  "mathematics",
+                  "mesh",
+                  "meshing",
+                  "pypi",
+                  "python",
+                  "vtk"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -508,12 +874,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Polygon Mesh Processing Library",
+                "homepage": "https://www.pmp-library.org",
                 "id": 105374301,
                 "language": "C++",
-                "last_commit": "2026-08-21T20:57:22Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T12:36:18Z",
+                "open_issues": 17,
                 "owner": "pmp-library",
                 "repo": "pmp-library",
-                "stars": 1503
+                "stars": 1503,
+                "topics": [
+                  "c-plus-plus",
+                  "curvature",
+                  "geodesic-distances",
+                  "geometry-processing",
+                  "hole-filling-algorithm",
+                  "mesh-processing",
+                  "mesh-simplification",
+                  "parameterization",
+                  "polygon-mesh",
+                  "remeshing",
+                  "smoothing",
+                  "subdivision",
+                  "surface-mesh",
+                  "triangle-mesh",
+                  "triangulation"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -524,12 +911,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":spider_web: Mesh optimization, mesh smoothing.",
+                "homepage": null,
                 "id": 131445806,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-18T14:19:39Z",
+                "open_issues": 3,
                 "owner": "meshpro",
                 "repo": "optimesh",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "engineering",
+                  "fem",
+                  "mathematics",
+                  "mesh",
+                  "mesh-generation",
+                  "meshing",
+                  "physics",
+                  "pypi",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -540,12 +942,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open source software for bidimensional and tridimensional remeshing",
+                "homepage": "http://www.mmgtools.org",
                 "id": 32025808,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-11T10:06:55Z",
+                "open_issues": 47,
                 "owner": "MmgTools",
                 "repo": "mmg",
-                "stars": 486
+                "stars": 486,
+                "topics": [
+                  "anisotropic-mesh-adaptation",
+                  "c",
+                  "cxx",
+                  "fortran",
+                  "isotropic-mesh-adaptation",
+                  "levelset-discretization",
+                  "mesh",
+                  "mesh-adaptation",
+                  "mesh-quality-improvement",
+                  "mmg",
+                  "remesher",
+                  "simulation",
+                  "simulation-modeling",
+                  "surface-improvement",
+                  "three-dimensional",
+                  "two-dimensional",
+                  "volume-remeshing"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             },
@@ -556,12 +981,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":spider_web: Compute interesting points, areas, and volumes in simplex meshes of any dimension.",
+                "homepage": null,
                 "id": 80457714,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-18T14:01:37Z",
+                "open_issues": 8,
                 "owner": "meshpro",
                 "repo": "meshplex",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "mathematics",
+                  "mesh",
+                  "pypi",
+                  "python",
+                  "voronoi-diagram"
+                ]
               },
               "first_seen": "2026-08-28T06:57:55.257Z"
             }
@@ -583,12 +1019,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of chunked, compressed, N-dimensional arrays for Python.",
+            "homepage": "https://zarr.readthedocs.io",
             "id": 48049137,
             "language": "Python",
-            "last_commit": "2026-08-27T07:00:49Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:42:40Z",
+            "open_issues": 511,
             "owner": "zarr-developers",
             "repo": "zarr-python",
-            "stars": 2046
+            "stars": 2046,
+            "topics": [
+              "compressed",
+              "ndimensional-arrays",
+              "python",
+              "zarr"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -599,12 +1045,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official HDF5® Library Repository",
+            "homepage": "https://www.hdfgroup.org/",
             "id": 258591100,
             "language": "C",
-            "last_commit": "2026-08-26T00:52:03Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:11:27Z",
+            "open_issues": 350,
             "owner": "HDFGroup",
             "repo": "hdf5",
-            "stars": 978
+            "stars": 978,
+            "topics": [
+              "c",
+              "cpp",
+              "database",
+              "fortran",
+              "hdf",
+              "hdf5",
+              "java",
+              "library",
+              "nosql"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -615,12 +1076,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official GitHub repository for netCDF-C libraries and utilities.",
+            "homepage": null,
             "id": 11934257,
             "language": "C",
-            "last_commit": "2026-08-19T16:07:09Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T19:21:38Z",
+            "open_issues": 293,
             "owner": "Unidata",
             "repo": "netcdf-c",
-            "stars": 601
+            "stars": 601,
+            "topics": [
+              "c",
+              "hacktoberfest",
+              "netcdf",
+              "unidata",
+              "unidata-netcdf"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         }
@@ -637,12 +1109,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parallel solvers for sparse linear systems featuring multigrid methods.",
+            "homepage": "https://www.llnl.gov/casc/hypre/",
             "id": 158287397,
             "language": "C",
-            "last_commit": "2026-08-27T21:44:02Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:34:08Z",
+            "open_issues": 178,
             "owner": "hypre-space",
             "repo": "hypre",
-            "stars": 852
+            "stars": 852,
+            "topics": [
+              "hpc",
+              "library",
+              "math-physics",
+              "radiuss"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -653,12 +1135,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algebraic Multigrid Solvers in Python",
+            "homepage": "https://pyamg.readthedocs.io/en/latest/",
             "id": 10866320,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-30T14:40:07Z",
+            "open_issues": 40,
             "owner": "pyamg",
             "repo": "pyamg",
-            "stars": 653
+            "stars": 653,
+            "topics": [
+              "amg",
+              "conda",
+              "krylov",
+              "multigrid",
+              "pyamg",
+              "python",
+              "solver",
+              "sparse-matrix"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -669,12 +1165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supernodal sparse direct solver.  https://portal.nersc.gov/project/sparse/superlu/",
+            "homepage": null,
             "id": 51040874,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T00:33:23Z",
+            "open_issues": 26,
             "owner": "xiaoyeli",
             "repo": "superlu",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         }
@@ -691,12 +1192,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and minimalist 3D viewer.",
+            "homepage": "https://f3d.app",
             "id": 241178673,
             "language": "C++",
-            "last_commit": "2026-08-27T11:12:25Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T04:02:14Z",
+            "open_issues": 330,
             "owner": "f3d-app",
             "repo": "f3d",
-            "stars": 4652
+            "stars": 4652,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "3d-viewer",
+              "command-line-tool",
+              "dxf",
+              "fbx",
+              "glb",
+              "gltf",
+              "gltf-viewer",
+              "graphics",
+              "obj",
+              "physically-based-rendering",
+              "raytracing",
+              "rendering",
+              "step",
+              "stl-viewer",
+              "usd",
+              "volume-rendering",
+              "vtk"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -707,12 +1233,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D visualization and mesh analysis for science and engineering",
+            "homepage": "https://docs.pyvista.org",
             "id": 92974124,
             "language": "Python",
-            "last_commit": "2026-08-28T06:35:52Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:35:10Z",
+            "open_issues": 593,
             "owner": "pyvista",
             "repo": "pyvista",
-            "stars": 3787
+            "stars": 3788,
+            "topics": [
+              "3d",
+              "finite-element-analysis",
+              "finite-elements",
+              "hacktoberfest",
+              "mesh",
+              "mesh-processing",
+              "meshviewer",
+              "plotting",
+              "python",
+              "scientific-visualization",
+              "visualization",
+              "vtk"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -723,12 +1267,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python module for scientific analysis of 3D data based on VTK and Numpy",
+            "homepage": "https://vedo.embl.es",
             "id": 110261047,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T14:34:23Z",
+            "open_issues": 172,
             "owner": "marcomusy",
             "repo": "vedo",
-            "stars": 2265
+            "stars": 2265,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "finite-elements",
+              "mesh",
+              "numpy",
+              "python",
+              "scientific-research",
+              "scientific-visualization",
+              "simulations",
+              "visualization",
+              "vtk"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -739,12 +1300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ & Python viewer for 3D data like meshes and point clouds",
+            "homepage": "https://polyscope.run",
             "id": 111565012,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-20T05:55:33Z",
+            "open_issues": 127,
             "owner": "nmwsharp",
             "repo": "polyscope",
-            "stars": 2199
+            "stars": 2199,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -755,12 +1321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D visualization of scientific data in Python",
+            "homepage": "http://docs.enthought.com/mayavi/mayavi/",
             "id": 1288547,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T15:33:48Z",
+            "open_issues": 454,
             "owner": "enthought",
             "repo": "mayavi",
-            "stars": 1407
+            "stars": 1407,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -771,12 +1342,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main yt repository",
+            "homepage": "http://yt-project.org",
             "id": 88776493,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T06:32:38Z",
+            "open_issues": 485,
             "owner": "yt-project",
             "repo": "yt",
-            "stars": 559
+            "stars": 559,
+            "topics": [
+              "analysis",
+              "astronomy",
+              "astrophysics",
+              "data",
+              "data-visualization",
+              "finite-element-analysis",
+              "geophysics",
+              "nuclear-engineering",
+              "python",
+              "scientific-computing",
+              "scientific-visualization",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -787,12 +1376,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TTK - Topological Data Analysis and Visualization - Source Code",
+            "homepage": "https://topology-tool-kit.github.io/",
             "id": 83953525,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T05:26:06Z",
+            "open_issues": 23,
             "owner": "topology-tool-kit",
             "repo": "ttk",
-            "stars": 478
+            "stars": 478,
+            "topics": [
+              "c-plus-plus",
+              "contour-tree",
+              "discrete-morse-theory",
+              "merge-tree",
+              "morse-smale-complex",
+              "paraview",
+              "persistent-homology",
+              "python",
+              "reeb-graph",
+              "topological-data-analysis",
+              "visualization",
+              "vtk"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -803,12 +1410,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "C++ header-only graphing and data visualization with Modern OpenGL",
+            "homepage": "https://abrg-models.github.io/morphologica/",
             "id": 137862983,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-26T09:18:00Z",
+            "open_issues": 0,
             "owner": "ABRG-Models",
             "repo": "morphologica",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "2d",
+              "3d",
+              "cplusplus",
+              "cplusplus-17",
+              "data-visualization",
+              "graphics",
+              "graphics-engine",
+              "graphs",
+              "matplotlib",
+              "opengl",
+              "plotting",
+              "simulation",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         }
@@ -825,12 +1451,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python-embedded modeling language for convex optimization problems.",
+            "homepage": "https://www.cvxpy.org",
             "id": 11110385,
             "language": "C++",
-            "last_commit": "2026-08-27T00:44:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:52:11Z",
+            "open_issues": 193,
             "owner": "cvxpy",
             "repo": "cvxpy",
-            "stars": 6312
+            "stars": 6314,
+            "topics": [
+              "convex-optimization",
+              "cvxpy",
+              "mathematical-optimization",
+              "modeling-language",
+              "numerical-optimization",
+              "optimization",
+              "optimization-modeling",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -841,12 +1481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DO NOT CHECK OUT THESE FILES FROM GITHUB UNLESS YOU KNOW WHAT YOU ARE DOING. (See below.)",
+            "homepage": null,
             "id": 8843388,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-10T11:17:52Z",
+            "open_issues": 183,
             "owner": "FFTW",
             "repo": "fftw3",
-            "stars": 3105
+            "stars": 3106,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -857,12 +1502,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyWavelets - Wavelet Transforms in Python",
+            "homepage": "http://pywavelets.readthedocs.org",
             "id": 11591264,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T13:24:11Z",
+            "open_issues": 84,
             "owner": "PyWavelets",
             "repo": "pywt",
-            "stars": 2397
+            "stars": 2397,
+            "topics": [
+              "continuous-wavelet",
+              "image-processing",
+              "signal-processing",
+              "wavelet-transform",
+              "wavelets"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -873,12 +1529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenFOAM Foundation development repository",
+            "homepage": "https://openfoam.org",
             "id": 27826728,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T09:55:35Z",
+            "open_issues": 7,
             "owner": "OpenFOAM",
             "repo": "OpenFOAM-dev",
-            "stars": 2214
+            "stars": 2214,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -889,12 +1550,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CONTRIBUTORS WELCOME] Generalized Additive Models in Python",
+            "homepage": "https://pygam.readthedocs.io",
             "id": 79413341,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-21T15:12:58Z",
+            "open_issues": 232,
             "owner": "dswah",
             "repo": "pyGAM",
-            "stars": 1013
+            "stars": 1013,
+            "topics": [
+              "data-science",
+              "explainable-ai",
+              "explainable-ml",
+              "gams",
+              "hacktoberfest",
+              "interpretable-ai",
+              "interpretable-machine-learning",
+              "interpretable-ml",
+              "machine-learning",
+              "python",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -905,12 +1583,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qhull development for www.qhull.org -- Qhull 2020.2 (8.1-alpha1) at https://github.com/qhull/qhull/wiki",
+            "homepage": null,
             "id": 41710969,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-07T19:29:23Z",
+            "open_issues": 30,
             "owner": "qhull",
             "repo": "qhull",
-            "stars": 824
+            "stars": 824,
+            "topics": [
+              "computational-geometry",
+              "convex-hull",
+              "delaunay",
+              "delaunay-triangulation",
+              "halfspace-intersection",
+              "qhull",
+              "quickhull",
+              "voronoi",
+              "voronoi-diagram"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -921,12 +1614,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":triangular_ruler: Numerical integration (quadrature, cubature) in Python",
+            "homepage": null,
             "id": 69865111,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-18T21:20:06Z",
+            "open_issues": 31,
             "owner": "sigma-py",
             "repo": "quadpy",
-            "stars": 785
+            "stars": 785,
+            "topics": [
+              "cubature",
+              "engineering",
+              "integration",
+              "mathematics",
+              "quadrature"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -937,12 +1641,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible framework for solving PDEs with modern spectral methods.",
+            "homepage": "http://dedalus-project.org/",
             "id": 264506861,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-21T20:22:38Z",
+            "open_issues": 65,
             "owner": "DedalusProject",
             "repo": "dedalus",
-            "stars": 703
+            "stars": 703,
+            "topics": [
+              "fluid-dynamics",
+              "pde-solver",
+              "spectral-methods"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -953,12 +1666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chebfun:  numerical computing with functions.",
+            "homepage": "http://www.chebfun.org/",
             "id": 7893220,
             "language": "MATLAB",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-23T16:12:49Z",
+            "open_issues": 174,
             "owner": "chebfun",
             "repo": "chebfun",
-            "stars": 677
+            "stars": 677,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -969,12 +1687,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FiPy is a Finite Volume PDE solver written in Python",
+            "homepage": "http://pages.nist.gov/fipy/en/latest",
             "id": 23316495,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T21:37:08Z",
+            "open_issues": 177,
             "owner": "usnistgov",
             "repo": "fipy",
-            "stars": 636
+            "stars": 636,
+            "topics": [
+              "materials-science",
+              "modeling",
+              "partial-differential-equations",
+              "phase-field",
+              "scientific-computing",
+              "scientific-computing-with-python",
+              "shared-memory-parallel",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -985,12 +1717,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model.",
+            "homepage": "https://esa.github.io/pygmo2/",
             "id": 232288821,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-04-17T09:41:08Z",
+            "open_issues": 39,
             "owner": "esa",
             "repo": "pygmo2",
-            "stars": 534
+            "stars": 534,
+            "topics": [
+              "artificial-intelligence",
+              "evolutionary-algorithms",
+              "evolutionary-computation",
+              "evolutionary-strategy",
+              "island-model",
+              "meta-heuristic",
+              "meta-heuristics",
+              "multiobjective-optimization",
+              "optimization",
+              "optimization-algorithms",
+              "optimization-methods",
+              "optimization-problem",
+              "parallel-computing",
+              "parallel-processing",
+              "stochastic-optimization"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -1001,12 +1754,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pyMOR - Model Order Reduction with Python",
+            "homepage": "https://pymor.org",
             "id": 9220688,
             "language": "Python",
-            "last_commit": "2026-08-27T23:13:05Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T16:16:31Z",
+            "open_issues": 130,
             "owner": "pymor",
             "repo": "pymor",
-            "stars": 346
+            "stars": 346,
+            "topics": [
+              "control-systems",
+              "data-driven",
+              "dealii",
+              "dune",
+              "empirical-interpolation",
+              "fenics",
+              "model-order-reduction",
+              "model-reduction",
+              "ngsolve",
+              "nonlinear-dynamics",
+              "parametric",
+              "python",
+              "reduced-basis",
+              "state-space"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -1017,12 +1790,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance computational platform in Python for the spectral Galerkin method",
+            "homepage": "http://shenfun.readthedocs.org",
             "id": 79914066,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-20T17:33:05Z",
+            "open_issues": 31,
             "owner": "spectralDNS",
             "repo": "shenfun",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "chebyshev",
+              "curvilinear-coordinates",
+              "cylindrical-coordinates",
+              "fenics",
+              "fourier",
+              "galerkin",
+              "hermite",
+              "hpc",
+              "laguerre",
+              "legendre",
+              "mobius",
+              "polar-coordinates",
+              "python",
+              "spectral",
+              "spectral-methods",
+              "spherical-coordinates",
+              "turbulence",
+              "ultraspherical"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -1033,12 +1830,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":triangular_ruler: Orthogonal polynomials in all shapes and sizes.",
+            "homepage": null,
             "id": 100865192,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-18T20:41:40Z",
+            "open_issues": 8,
             "owner": "sigma-py",
             "repo": "orthopy",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "chebyshev-polynomials",
+              "chemistry",
+              "engineering",
+              "legendre-polynomials",
+              "mathematics",
+              "physics",
+              "polynomials",
+              "python",
+              "quadrature",
+              "spherical-harmonics",
+              "zernike-polynomials"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -1049,12 +1863,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official NFFT library repository",
+            "homepage": "https://tu-chemnitz.de/~potts/nfft/",
             "id": 50946487,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T07:35:57Z",
+            "open_issues": 22,
             "owner": "NFFT",
             "repo": "nfft",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "c",
+              "fftw",
+              "fourier-transform",
+              "julia",
+              "matlab",
+              "nfft"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -1065,12 +1891,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for high-performance domain decomposition methods.",
+            "homepage": null,
             "id": 27028108,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T19:08:42Z",
+            "open_issues": 1,
             "owner": "hpddm",
             "repo": "hpddm",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "domain-decomposition",
+              "fortran",
+              "freefem",
+              "linear-algebra",
+              "numerical-methods",
+              "petsc",
+              "preconditioners",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -1081,12 +1923,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mathLab mirror of Python Dynamic Mode Decomposition",
+            "homepage": "https://pydmd.github.io/PyDMD/",
             "id": 629922737,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-06T16:41:03Z",
+            "open_issues": 0,
             "owner": "mathLab",
             "repo": "PyDMD",
-            "stars": 127
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         },
@@ -1097,12 +1944,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dart: Accurate sums and dot products for Python.",
+            "homepage": null,
             "id": 121792855,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-06T15:54:02Z",
+            "open_issues": 2,
             "owner": "sigma-py",
             "repo": "accupy",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "accuracy",
+              "engineering",
+              "mathematics",
+              "numerical-methods",
+              "numpy",
+              "pypi",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:57:55.257Z"
         }
@@ -1111,15 +1971,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:55.257Z",
+    "last_updated": "2026-08-29T04:13:22.757Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: Curated list of awesome software for numerical analysis and scientific computing",
+      "homepage": null,
       "id": 132509274,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-20T10:32:58Z",
+      "open_issues": 17,
       "owner": "nschloe",
       "repo": "awesome-scientific-computing",
-      "stars": 1583
+      "stars": 1584,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "engineering",
+        "mathematics",
+        "numerical-analysis",
+        "physics",
+        "scientific-computing"
+      ]
     },
     "original_repository_sha": "5b7af1bf55324ce0a2205dc9c1822363fabafa10",
     "enhanced_repository": "enhansome/enhansome-scientific-computing",
