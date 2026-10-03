@@ -29,9 +29,9 @@ them.
 * [BLIS](https://github.com/flame/blis) ⭐ 2,690 | 🐛 130 | 🌐 C | 📅 2026-10-02 - High-performance BLAS-like dense linear algebra libraries.
   (C, BSD, GitHub)
 * [BLAS](https://netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
-  (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS) ⭐ 1,906 | 🐛 162 | 🌐 Fortran | 📅 2026-10-02)
+  (Fortran, public domain, [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS) ⭐ 1,906 | 🐛 163 | 🌐 Fortran | 📅 2026-10-02)
 * [LAPACK](https://netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
-  (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack) ⭐ 1,906 | 🐛 162 | 🌐 Fortran | 📅 2026-10-02)
+  (Fortran, BSD, [GitHub](https://github.com/Reference-LAPACK/lapack) ⭐ 1,906 | 🐛 163 | 🌐 Fortran | 📅 2026-10-02)
 * [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
   (C++, BSD, [GitHub](https://github.com/ginkgo-project/ginkgo) ⭐ 623 | 🐛 221 | 🌐 C++ | 📅 2026-10-02)
 * [Eigen](https://libeigen.gitlab.io/) - C++ template library for linear algebra.
@@ -42,9 +42,9 @@ them.
 ## Multi-purpose toolkits
 
 * [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
-  (Python, BSD, [GitHub](https://github.com/numpy/numpy) ⭐ 32,900 | 🐛 2,250 | 🌐 Python | 📅 2026-10-02)
+  (Python, BSD, [GitHub](https://github.com/numpy/numpy) ⭐ 32,901 | 🐛 2,251 | 🌐 Python | 📅 2026-10-02)
 * [SciPy](https://scipy.org) - Python modules for statistics, optimization, integration, linear algebra, etc.
-  (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/) ⭐ 15,072 | 🐛 1,860 | 🌐 Python | 📅 2026-10-02)
+  (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/) ⭐ 15,072 | 🐛 1,862 | 🌐 Python | 📅 2026-10-02)
 * [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub](https://github.com/SciML/DifferentialEquations.jl) ⭐ 3,164 | 🐛 115 | 🌐 Julia | 📅 2026-09-11)
 * [PETSc](https://petsc.org/release/) - Parallel solution of scientific applications modeled by PDEs.
   (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
@@ -154,7 +154,7 @@ them.
 ## Visualization
 
 * [F3D](https://f3d.app/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
-  (C++, BSD, [GitHub](https://github.com/f3d-app/f3d) ⭐ 4,737 | 🐛 316 | 🌐 C++ | 📅 2026-10-02)
+  (C++, BSD, [GitHub](https://github.com/f3d-app/f3d) ⭐ 4,738 | 🐛 316 | 🌐 C++ | 📅 2026-10-02)
 * [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
   (Python, MIT, [GitHub](https://github.com/pyvista/pyvista) ⭐ 3,831 | 🐛 509 | 🌐 Python | 📅 2026-10-02)
 * [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
@@ -176,7 +176,7 @@ them.
 ## Other libraries and tools
 
 * [cvxpy](https://www.cvxpy.org/) - Modeling language for convex optimization problems.
-  (Python, Apache 2.0, [GitHub](https://github.com/cvxpy/cvxpy) ⭐ 6,355 | 🐛 187 | 🌐 C++ | 📅 2026-10-02)
+  (Python, Apache 2.0, [GitHub](https://github.com/cvxpy/cvxpy) ⭐ 6,355 | 🐛 189 | 🌐 C++ | 📅 2026-10-02)
 * [FFTW](http://www.fftw.org) - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, real and complex.
   (C, GPL2, [GitHub](https://github.com/FFTW/fftw3) ⭐ 3,106 | 🐛 188 | 🌐 C | 📅 2026-06-10)
 * [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
@@ -197,7 +197,7 @@ them.
 * [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDE solver.
   (Python, [custom open-source
   license](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications),
-  [GitHub](https://github.com/usnistgov/fipy) ⭐ 641 | 🐛 174 | 🌐 Python | 📅 2026-10-02)
+  [GitHub](https://github.com/usnistgov/fipy) ⭐ 641 | 🐛 174 | 🌐 Python | 📅 2026-10-03)
 * [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
   (Python/C++, MPL 2, [GitHub](https://github.com/esa/pygmo2) ⭐ 542 | 🐛 43 | 🌐 C++ | 📅 2026-04-17)
 * [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
